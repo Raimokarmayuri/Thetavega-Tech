@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Thetavega-Tech/static/css/main.add1fffa.css",
+    "main.js": "/Thetavega-Tech/static/js/main.5baad911.js",
+    "static/js/496.45b2a566.chunk.js": "/Thetavega-Tech/static/js/496.45b2a566.chunk.js",
+    "static/media/hightechabout.png": "/Thetavega-Tech/static/media/hightechabout.db039f24ec276c700646.png",
+    "static/media/bootstrap-icons.woff?": "/Thetavega-Tech/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Thetavega-Tech/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/logo.PNG": "/Thetavega-Tech/static/media/logo.a96e85310c6f142e6699.PNG",
+    "static/media/user4.jpg": "/Thetavega-Tech/static/media/user4.6ac95ef9bc0c027733ea.jpg",
+    "index.html": "/Thetavega-Tech/index.html",
+    "main.add1fffa.css.map": "/Thetavega-Tech/static/css/main.add1fffa.css.map",
+    "main.5baad911.js.map": "/Thetavega-Tech/static/js/main.5baad911.js.map",
+    "496.45b2a566.chunk.js.map": "/Thetavega-Tech/static/js/496.45b2a566.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.add1fffa.css",
+    "static/js/main.5baad911.js"
+  ]
+}
