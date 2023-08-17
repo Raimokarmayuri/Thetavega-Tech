@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Thetavega-Tech/static/css/main.add1fffa.css",
-    "main.js": "/Thetavega-Tech/static/js/main.06ccfcaf.js",
+    "main.js": "/Thetavega-Tech/static/js/main.e4a8a0bc.js",
     "static/js/496.45b2a566.chunk.js": "/Thetavega-Tech/static/js/496.45b2a566.chunk.js",
     "static/media/bootstrap-icons.woff?": "/Thetavega-Tech/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/Thetavega-Tech/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/logo.PNG": "/Thetavega-Tech/static/media/logo.a96e85310c6f142e6699.PNG",
-    "static/media/barchartdown.jpg": "/Thetavega-Tech/static/media/barchartdown.cac6e8b8e8fa96f43d89.jpg",
+    "static/media/DayWise.jpg": "/Thetavega-Tech/static/media/DayWise.ece09be1b69df5736d7b.jpg",
     "static/media/user4.jpg": "/Thetavega-Tech/static/media/user4.6ac95ef9bc0c027733ea.jpg",
     "index.html": "/Thetavega-Tech/index.html",
     "main.add1fffa.css.map": "/Thetavega-Tech/static/css/main.add1fffa.css.map",
-    "main.06ccfcaf.js.map": "/Thetavega-Tech/static/js/main.06ccfcaf.js.map",
+    "main.e4a8a0bc.js.map": "/Thetavega-Tech/static/js/main.e4a8a0bc.js.map",
     "496.45b2a566.chunk.js.map": "/Thetavega-Tech/static/js/496.45b2a566.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.add1fffa.css",
-    "static/js/main.06ccfcaf.js"
+    "static/js/main.e4a8a0bc.js"
   ]
 }
