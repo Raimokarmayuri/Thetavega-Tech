@@ -30,7 +30,7 @@ const About = () => {
                   &nbsp; &nbsp;&nbsp;  Their knowledge is broad and includes areas like AI, cloud computing, quality management, and assembly. They reduce complexity, improve productivity, and promote real business growth through new techniques. The company's dedication to innovation goes beyond technology, influencing its ethical standards and network of information. THETAVEGA TECH seeks to serve as the premier strategic partner for manufacturing excellence.
                 </p>
               </div>
-              <h6 style={{ paddingLeft: '10%' }}>  Contact Us: +919371675893 </h6>
+              <h6 style={{ paddingLeft: '10%' }}>  Contact Us: +919371675893   </h6>
               <h6 style={{ paddingLeft: '10%' }}> Email: tejas@thetavega.tech</h6>
               
             </Col>
